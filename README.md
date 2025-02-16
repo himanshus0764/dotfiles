@@ -1,2 +1,2 @@
 # dotfiles
-my repo of dotfiles backup1
+my repo of dotfiles backup
